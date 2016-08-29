@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1332977618 source:/home/daniel/Estrutura de Dados/TADStack/astack.cpp
+	"astack.h"
+
+1332976584 /home/daniel/Estrutura de Dados/TADStack/astack.h
+	"stack.h"
+	<stdlib.h>
+	<iostream>
+
+1332975860 /home/daniel/Estrutura de Dados/TADStack/stack.h
+
+1332975860 source:/home/daniel/Estrutura de Dados/TADStack/lstack.cpp
+	"lstack.h"
+
+1332975860 /home/daniel/Estrutura de Dados/TADStack/lstack.h
+	"stack.h"
+	<iostream>
+
+1333165206 source:/home/daniel/Estrutura de Dados/TADStack/main.cpp
+	"lstack.h"
+	"astack.h"
+

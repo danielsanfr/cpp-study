@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1336456068 source:/home/daniel/Estudos/Estrutura de Dados/TADAVLTree/main.cpp
+	"myavltree.h"
+
+1336456138 /home/daniel/Estudos/Estrutura de Dados/TADAVLTree/myavltree.h
+	"node.h"
+	<iostream>
+	<climits>
+	<stdlib.h>
+
+1333424264 /home/daniel/Estudos/Estrutura de Dados/TADAVLTree/binarytree.h
+
+1336447006 /home/daniel/Estudos/Estrutura de Dados/TADAVLTree/node.h
+	"arraylist.h"
+	<iostream>
+	<string>
+
+1336181425 /home/daniel/Estudos/Estrutura de Dados/TADAVLTree/arraylist.h
+	<iostream>
+	<stdlib.h>
+
+1336456038 source:/home/daniel/Estudos/Estrutura de Dados/TADAVLTree/myavltree.cpp
+	"myavltree.h"
+
+1336455462 source:/home/daniel/Estudos/Estrutura de Dados/TADAVLTree/node.cpp
+	"node.h"
+
+1333228294 source:/home/daniel/Estudos/Estrutura de Dados/TADAVLTree/arraylist.cpp
+	"arraylist.h"
+

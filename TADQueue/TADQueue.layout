@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="aqueue.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="125" topLine="0" />
+	</File>
+	<File name="aqueue.h" open="1" top="0" tabpos="4">
+		<Cursor position="407" topLine="0" />
+	</File>
+	<File name="lqueue.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="800" topLine="50" />
+	</File>
+	<File name="lqueue.h" open="1" top="0" tabpos="2">
+		<Cursor position="489" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="6">
+		<Cursor position="95" topLine="0" />
+	</File>
+	<File name="queue.h" open="1" top="0" tabpos="1">
+		<Cursor position="278" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

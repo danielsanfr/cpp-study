@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1331861664 source:/home/daniel/Estrutura de Dados/IntegerList/main.cpp
+	"integerlist.h"
+
+1331861352 /home/daniel/Estrutura de Dados/IntegerList/integerlist.h
+	<iostream>
+	<vector>
+
+1331862310 source:/home/daniel/Estrutura de Dados/IntegerList/integerlist.cpp
+	"integerlist.h"
+

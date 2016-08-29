@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1333922474 source:/home/daniel/Estrutura de Dados/TADBinaryTree/main.cpp
+	"mybinarytree.h"
+
+1333933917 source:/home/daniel/Estrutura de Dados/TADBinaryTree/mybinarytree.cpp
+	"mybinarytree.h"
+
+1333863680 /home/daniel/Estrutura de Dados/TADBinaryTree/mybinarytree.h
+	"binarytree.h"
+	"node.h"
+	<iostream>
+	<climits>
+	<stdlib.h>
+
+1333424264 /home/daniel/Estrutura de Dados/TADBinaryTree/binarytree.h
+
+1333826756 source:/home/daniel/Estrutura de Dados/TADBinaryTree/node.cpp
+	"node.h"
+
+1333773095 /home/daniel/Estrutura de Dados/TADBinaryTree/node.h
+	<iostream>
+
+1333496960 source:/home/felipe/TADBinaryTree/main.cpp
+	"mybinarytree.h"
+
+1333426670 source:/home/felipe/TADBinaryTree/mybinarytree.cpp
+	"mybinarytree.h"
+
+1333496941 /home/felipe/TADBinaryTree/mybinarytree.h
+	"binarytree.h"
+	"node.h"
+	<iostream>
+
+1333424264 /home/felipe/TADBinaryTree/binarytree.h
+
+1333492831 source:/home/felipe/TADBinaryTree/node.cpp
+	"node.h"
+
+1333496941 /home/felipe/TADBinaryTree/node.h
+	<iostream>
+
+1333922474 source:/home/daniel/Estudos/Estrutura de Dados/TADBinaryTree/main.cpp
+	"mybinarytree.h"
+
+1336189824 /home/daniel/Estudos/Estrutura de Dados/TADBinaryTree/mybinarytree.h
+	"binarytree.h"
+	"node.h"
+	<iostream>
+	<climits>
+	<stdlib.h>
+
+1333424264 /home/daniel/Estudos/Estrutura de Dados/TADBinaryTree/binarytree.h
+
+1333773095 /home/daniel/Estudos/Estrutura de Dados/TADBinaryTree/node.h
+	<iostream>
+
+1333826756 source:/home/daniel/Estudos/Estrutura de Dados/TADBinaryTree/node.cpp
+	"node.h"
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="binarytree.h" open="1" top="0" tabpos="8">
+		<Cursor position="20" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="2329" topLine="0" />
+	</File>
+	<File name="mybinarytree.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="5161" topLine="217" />
+	</File>
+	<File name="mybinarytree.h" open="1" top="1" tabpos="9">
+		<Cursor position="244" topLine="0" />
+	</File>
+	<File name="node.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="454" topLine="20" />
+	</File>
+	<File name="node.h" open="1" top="0" tabpos="6">
+		<Cursor position="773" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

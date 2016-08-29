@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1331093340 source:/home/daniel/Área de trabalho/Poligono/main.cpp
+	"poligono.h"
+	"quadrado.h"
+	"retangulo.h"
+
+1331091333 /home/daniel/Área de trabalho/Poligono/poligono.h
+	<iostream>
+
+1331091822 source:/home/daniel/Área de trabalho/Poligono/poligono.cpp
+	"poligono.h"
+
+1331092799 /home/daniel/Área de trabalho/Poligono/quadrado.h
+	"poligono.h"
+
+1331093270 source:/home/daniel/Área de trabalho/Poligono/quadrado.cpp
+	"quadrado.h"
+
+1331093298 source:/home/daniel/Área de trabalho/Poligono/retangulo.cpp
+	"retangulo.h"
+
+1331093061 /home/daniel/Área de trabalho/Poligono/retangulo.h
+	"poligono.h"
+
+1331093340 source:/home/daniel/Estrutura de Dados/Poligono/main.cpp
+	"poligono.h"
+	"quadrado.h"
+	"retangulo.h"
+
+1331091333 /home/daniel/Estrutura de Dados/Poligono/poligono.h
+	<iostream>
+
+1331092799 /home/daniel/Estrutura de Dados/Poligono/quadrado.h
+	"poligono.h"
+
+1331093061 /home/daniel/Estrutura de Dados/Poligono/retangulo.h
+	"poligono.h"
+
+1331091822 source:/home/daniel/Estrutura de Dados/Poligono/poligono.cpp
+	"poligono.h"
+
+1331093270 source:/home/daniel/Estrutura de Dados/Poligono/quadrado.cpp
+	"quadrado.h"
+
+1331093298 source:/home/daniel/Estrutura de Dados/Poligono/retangulo.cpp
+	"retangulo.h"
+

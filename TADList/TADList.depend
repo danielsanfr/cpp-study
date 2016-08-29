@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1333239649 source:/home/daniel/Estrutura de Dados/TADList/main.cpp
+	"linkedlist.h"
+	"arraylist.h"
+	"list.h"
+
+1333171697 /home/daniel/Estrutura de Dados/TADList/linkedlist.h
+	"list.h"
+	<iostream>
+
+1332382490 /home/daniel/Estrutura de Dados/TADList/list.h
+
+1333171697 /home/daniel/Estrutura de Dados/TADList/arraylist.h
+	"list.h"
+	<iostream>
+	<stdlib.h>
+
+1333228294 source:/home/daniel/Estrutura de Dados/TADList/arraylist.cpp
+	"arraylist.h"
+
+1333239878 source:/home/daniel/Estrutura de Dados/TADList/linkedlist.cpp
+	"linkedlist.h"
+

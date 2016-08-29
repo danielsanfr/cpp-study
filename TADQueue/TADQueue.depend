@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1333334729 source:/home/daniel/Estrutura de Dados/TADQueue/aqueue.cpp
+	"aqueue.h"
+
+1333176642 /home/daniel/Estrutura de Dados/TADQueue/aqueue.h
+	"queue.h"
+	<stdlib.h>
+	<iostream>
+
+1333167272 /home/daniel/Estrutura de Dados/TADQueue/queue.h
+
+1333225121 source:/home/daniel/Estrutura de Dados/TADQueue/lqueue.cpp
+	"lqueue.h"
+
+1333223546 /home/daniel/Estrutura de Dados/TADQueue/lqueue.h
+	"queue.h"
+	<stdlib.h>
+	<iostream>
+
+1333225579 source:/home/daniel/Estrutura de Dados/TADQueue/main.cpp
+	"aqueue.h"
+	"lqueue.h"
+
